@@ -33,6 +33,10 @@ table {
 
 }
 
+#tableform {
+  color: white;
+  background-color: white;
+}
 
 /*
  * Remove text-shadow in selection highlight:
