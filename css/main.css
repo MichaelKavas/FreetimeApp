@@ -23,7 +23,7 @@ body {
 
 table {
   margin: auto;
-  background-color: #222222;
+  background-color: #cccccc;
   width: 600px;
   max-width: 600px;
   height: 300px;
@@ -32,6 +32,7 @@ table {
 
 
 }
+
 
 /*
  * Remove text-shadow in selection highlight:
